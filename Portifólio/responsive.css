@@ -1,0 +1,14 @@
+@media screen and (max-width:950px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    header nav{
+        margin-top: 14px;
+    }
+    header .icons{
+        margin-top: 7px;
+        width: 300px;
+        justify-content: space-around;
+    }
+}
